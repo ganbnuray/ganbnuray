@@ -2,7 +2,7 @@
 🔭 I’m currently working on an SWE Fellowship. <br>
 🌱 I’m learning about React.<br>
 🎓 Pursuing CS degree with concentration on AI at Minerva University.<br>
-🎨 I like combining art & tech to make appealing project. PS: My second major is Arts & Humanities.<br>
+🎨 I like combining art & tech to make appealing projects. PS: My second major is Arts & Humanities.<br>
 👯 I’m looking to collaborate on cool projects.<br>
 ⚡ Fun fact: I am studying in 6 countries for my degree.<br>
 
