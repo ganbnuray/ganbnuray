@@ -36,5 +36,5 @@ Welcome to my profile! I'm a student, coder and traveller. Thanks for visiting a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
- # 🏆 DSA
+ # DSA
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NurayGanbarova?theme=dark&font=Anek%20Kannada)
